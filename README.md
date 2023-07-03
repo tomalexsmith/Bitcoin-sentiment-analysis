@@ -10,7 +10,9 @@ The resulting findings could potentially be leveraged by both new and current in
 
 The results indicated that, while there may be some correlation between the fluctuations in Bitcoin’s value and the sentiment towards it, potentially allowing for it to be utilised to predict the market trajectory, this correlation does not extend to the magnitude of changes in the Bitcoin market.
 
-### Full dissertation can be viewed at: https://www.overleaf.com/read/tjqjcfwshzvm
+**:mortar_board: Full dissertation can be viewed at:** https://www.overleaf.com/read/tjqjcfwshzvm
+
+**:floppy_disk: All datasets used during this project can be found at:** [https://drive.google.com/drive/folders/diss_datasets](https://drive.google.com/drive/folders/1YlCs_QCzGT9VTDmQ6DgpLp0owVo1zLBY?usp=sharing)
 <br />
 
 ## 📦 Tech stack & packages used 
@@ -24,7 +26,7 @@ The results indicated that, while there may be some correlation between the fluc
 |Sklearn (Scikit Learn)| The Sklearn Python library allowed me to implement the machine learning sentiment analysis approach, and produce a preprocessing pipeline.|
 |NLTK (Natural Language Toolkit)| The NLTK Python module has facilitated the preprocessing of all the datasets.|
 
-## Project Objectives
+## :dart: Project Objectives
 
 - [x] Explore methods for and carry out scraping of Bitcoin-related tweets
 
